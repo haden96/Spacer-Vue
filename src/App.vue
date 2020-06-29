@@ -4,12 +4,5 @@
   </div>
 </template>
 
-<style lang="scss" scoped>
-* {
-  box-sizing: border-box;
-}
+<style lang="scss" scoped/>
 
-body {
-  font-family: "Montserrat", sans-serif;
-}
-</style>
